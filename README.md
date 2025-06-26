@@ -2,7 +2,7 @@
 
 Este repositorio contiene **3 dashboards interactivos** creados en Power BI para análisis de datos empresariales. Power BI es una herramienta de Microsoft para visualización de datos, reporting avanzado y toma de decisiones basada en métricas.
 
-## **📂 Estructura del repositorio**
+## **🔍 Estructura del repositorio**
 Cada dashboard está organizado en su propia carpeta, con sus archivos `.pbix` y datos asociados:
 
 1. **📁 Servicio-Atencion-Cliente**  
@@ -26,3 +26,4 @@ Cada dashboard está organizado en su propia carpeta, con sus archivos `.pbix` y
    git clone https://github.com/tu-usuario/power-bi-dashboards.git
    ```
 3. Abre el archivo `.pbix` correspondiente en Power BI Desktop.
+ 
